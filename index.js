@@ -17,7 +17,7 @@ const DATA = [
     name: 'Learning Cloud Computing: Core Concepts',
     certificateLink:
       './assets/certificates/CertificateOfCompletion_Learning Cloud Computing Core Concepts.pdf',
-    imgLink: './assets/img/CertificateOfCompletion_Azure Understanding the Big Picture 2020.png',
+    imgLink: './assets/img/CertificateOfCompletion_Learning Cloud Computing Core Concepts.png',
     completedDate: '2021-08-18',
     skillsCovered: ['Cloud Computing'],
   },
