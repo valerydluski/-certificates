@@ -14,6 +14,14 @@ const DATA = [
     skillsCovered: ['Express.js', 'JavaScript', 'Node.js'],
   },
   {
+    name: 'Learning Cloud Computing: Core Concepts',
+    certificateLink:
+      './assets/certificates/CertificateOfCompletion_Learning Cloud Computing Core Concepts.pdf',
+    imgLink: './assets/img/CertificateOfCompletion_Azure Understanding the Big Picture 2020.png',
+    completedDate: '2021-08-18',
+    skillsCovered: ['Cloud Computing'],
+  },
+  {
     name: 'Azure: Understanding the Big Picture (2020)',
     certificateLink:
       './assets/certificates/CertificateOfCompletion_Azure Understanding the Big Picture 2020.pdf',
